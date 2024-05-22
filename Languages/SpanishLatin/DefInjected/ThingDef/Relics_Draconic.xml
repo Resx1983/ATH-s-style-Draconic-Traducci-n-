@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RelicInertCurlyHorn.label>Cuerno ondulado</RelicInertCurlyHorn.label>
+    <RelicInertCurlyHorn.description>El cuerno ondulado de un dragón antiguo. Emana de él una poderosa energía arcana.</RelicInertCurlyHorn.description>
+
+    <RelicInertDragonPaw.label>Pata de dragón</RelicInertDragonPaw.label>
+    <RelicInertDragonPaw.description>Un objeto con significado ideoligioso</RelicInertDragonPaw.description>
+
+    <RelicInertDragonSkull.label>Cráneo de dragón</RelicInertDragonSkull.label>
+    <RelicInertDragonSkull.description>El cráneo de un dragón petrificado</RelicInertDragonSkull.description>
+
+    <RelicInertStraitHorn.label>Cuerno de dragón</RelicInertStraitHorn.label>
+    <RelicInertStraitHorn.description>El cuerno de un dragón antiguo. Emana de él una poderosa energía arcana.</RelicInertStraitHorn.description>
+
+    <RelicInertDragonStatue.label>Estatua de dragón</RelicInertDragonStatue.label>
+    <RelicInertDragonStatue.description>La estatua de un dragón. Antaño, los antiguos seguidores Dragonianos veneraban a estas poderosas bestias de diferentes formas, templos llenos esculturas dragón con lujo de detalle era una de ellas.</RelicInertDragonStatue.description>
+
+    <RelicInertFang.label>Colmillo</RelicInertFang.label>
+    <RelicInertFang.description>Un objeto con significado ideoligioso</RelicInertFang.description>
+
+    <RelicInertFangAmulet.label>Amuleto con Colmillo</RelicInertFangAmulet.label>
+    <RelicInertFangAmulet.description>Un objeto con significado ideoligioso</RelicInertFangAmulet.description>
+
+    <RelicInertScale.label>Escama de dragón</RelicInertScale.label>
+    <RelicInertScale.description>La escama de un dragón antiguo. Cuenta la leyenda que, antaño, el mundo estaba gobernado por estas poderosas bestias cuyas escamas pétreas eran el secreto de su inmortalidad.</RelicInertScale.description>
+
+    <RelicInertScalesPelt.label>Piel de dragón</RelicInertScalesPelt.label>
+    <RelicInertScalesPelt.description>La piel escamosa de un dragón. Las escamas pétreas que la conforman brindan una gran protección</RelicInertScalesPelt.description>
+
+</LanguageData>
